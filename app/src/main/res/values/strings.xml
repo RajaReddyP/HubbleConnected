@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HubbleConnected</string>
+    <string name="title_activity_feed_info">FeedInfoActivity</string>
+    <string name="title_activity_feed_display">FeedDisplayActivity</string>
+</resources>
